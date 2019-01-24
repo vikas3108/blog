@@ -1,0 +1,52 @@
+.content{
+  width:60%;
+  float:left;
+  padding: 0 0 0 30px;
+  background: red;
+  height: 100%;
+}
+.sidebar{
+  width: 40%;
+  float: right;
+  padding: 10px;
+  background: yellow;
+  height: 100%;
+  color: red;
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid yellow;
+  padding-bottom: 10px;
+
+}
+body{
+  color: white;
+  background: red;
+}
+#date{
+  color: yellow;
+  font-size: 12px;
+  font-size: italic;
+}
+#ch{
+  color: yellow;
+  font-size: 30px;
+  font-size: italic;
+  border-bottom: 2px solid yellow;
+}
+a{
+  color: #ffffb3;
+}
+#pcount{
+  font-size: 40px;
+  color: red;
+  font-weight: 40px;
+}
+input,textarea{
+  color:white;
+  background:black;
+}
+.commentdata:nth-of-type(odd){
+  background: #abc918;
+  color:white;
+}
